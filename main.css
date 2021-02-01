@@ -1,0 +1,15 @@
+.button-type{
+    display: flex;
+}
+
+button{
+    margin: 20px;
+    border: solid 3px orange;
+    background-color: orange;
+    color: #fff;
+    border-radius: 10px;
+}
+
+p {
+    font-weight: bold;
+}
